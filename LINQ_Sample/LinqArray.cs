@@ -135,7 +135,18 @@ namespace LINQ_Sample
 
         public void Linq13()
         {
-            var sequence = Numbers.TakeWhile()
+            Console.Write("Insert the number: ");
+            var number = int.Parse(Console.ReadLine());
+            var sequence = Numbers.TakeWhile(x=> x<number);
+            foreach (var i in sequence)
+            {
+                Console.WriteLine(i);
+            }
+        }
+
+        public void Linq14()
+        {
+            
         }
     }
 }
