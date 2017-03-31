@@ -1,0 +1,6 @@
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\bin\Debug\LINQ_Sample.exe.config
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\bin\Debug\LINQ_Sample.exe
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\bin\Debug\LINQ_Sample.pdb
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\obj\Debug\LINQ_Sample.csprojResolveAssemblyReference.cache
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\obj\Debug\LINQ_Sample.exe
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\LINQ_Sample\obj\Debug\LINQ_Sample.pdb

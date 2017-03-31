@@ -1,0 +1,6 @@
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\bin\Debug\Attributes.exe
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\bin\Debug\Attributes.pdb
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\obj\Debug\Attributes.csprojResolveAssemblyReference.cache
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\obj\Debug\Attributes.exe
+C:\Users\ilica\Documents\Visual Studio 2012\Projects\JL_Intership_Day21_03\Attributes\obj\Debug\Attributes.pdb

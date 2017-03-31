@@ -1,0 +1,5 @@
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\Generics_Sample\bin\Debug\Generics_Sample.exe.config
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\Generics_Sample\bin\Debug\Generics_Sample.exe
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\Generics_Sample\bin\Debug\Generics_Sample.pdb
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\Generics_Sample\obj\Debug\Generics_Sample.exe
+C:\Users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\Generics_Sample\obj\Debug\Generics_Sample.pdb

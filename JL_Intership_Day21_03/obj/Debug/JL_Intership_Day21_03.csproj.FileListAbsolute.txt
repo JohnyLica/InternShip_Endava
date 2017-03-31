@@ -1,0 +1,6 @@
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\bin\Debug\JL_Intership_Day21_03.exe.config
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\bin\Debug\JL_Intership_Day21_03.exe
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\bin\Debug\JL_Intership_Day21_03.pdb
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\obj\Debug\JL_Intership_Day21_03.csprojResolveAssemblyReference.cache
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\obj\Debug\JL_Intership_Day21_03.exe
+c:\users\ilica\documents\visual studio 2012\Projects\JL_Intership_Day21_03\JL_Intership_Day21_03\obj\Debug\JL_Intership_Day21_03.pdb
