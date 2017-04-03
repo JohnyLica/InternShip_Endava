@@ -8,8 +8,9 @@ namespace LINQ_Sample
         {
             while (true)
             {
-                if (Console.ReadLine() == "exit") break;
-                Console.WriteLine("Insert Task number: ");
+                Console.WriteLine("Press Enter to continue or Type Exit to close the app...");
+                if (Console.ReadLine() == "Exit") break;
+                Console.WriteLine("Insert Method Name: ");
                 var type = typeof (LinqArray);
                 var method = type.GetMethod(Console.ReadLine());
                 var task = new LinqArray();
